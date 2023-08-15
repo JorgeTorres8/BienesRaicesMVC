@@ -14,6 +14,6 @@
 
 ## **Demo App**
 
-Take a look for yourself **[Bienes Raices.](https://demobienesraicesjorgetorres.netlify.app/ "Deployment Bienes Raices")** //TODO
+Take a look for yourself **[Bienes Raices.](https://demobienesraicesjorgetorres.netlify.app/ "Deployment Bienes Raices")**
 
 ![Bienes Raices image](public/imagenes/readme/BienesRaices.png "BienesRaices Preview")
